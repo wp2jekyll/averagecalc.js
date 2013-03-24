@@ -17,7 +17,6 @@
 					}
 
 					avg = sumSeries() / series.length;
-					console.log(avg, sumSeries(), series.length);
 					return avg;				
 				},
 
